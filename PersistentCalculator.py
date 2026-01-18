@@ -18,6 +18,15 @@ def subtract(a,b):
     return a - b
 
 
+# -------- Member 4 START --------
+#Divide Function
+def divide(a, b):
+    if b == 0:
+        return "Error: Division by zero"
+    return a / b 
+
+
+
 # -------- Member 1 START --------
 # Add function + persistent loop
 
