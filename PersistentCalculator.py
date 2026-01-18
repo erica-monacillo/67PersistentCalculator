@@ -2,11 +2,21 @@
 # Persistent Python Calculator
 # ==================================
 
+
+
+
+# -------- Member 3 START --------
+#Multiplication function
+
+def mupltiply(a, b):
+    return a * b 
+
+
 # -------- Member 2 START --------
 #Subtract function
 def subtract(a,b):
     return a - b
-# -------- Member 2 END --------
+
 
 # -------- Member 1 START --------
 # Add function + persistent loop
